@@ -1,0 +1,12 @@
+**/Properties/Settings.settings
+.vs/HospitalRegistration/v17/.suo
+.vs/HospitalRegistration/v17/DocumentLayout.backup.json
+.vs/HospitalRegistration/v17/DocumentLayout.json
+HospitalRegistration/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+HospitalRegistration/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+HospitalRegistration/Properties/Settings.Designer.cs
+HospitalRegistration/Properties/Resources.resx
+HospitalRegistration/bin/
+HospitalRegistration/obj/
+HospitalRegistration/debug/
+.vs/
