@@ -1,3 +1,6 @@
-1-I uploaded the sql_script.sql file to create example database for you, all you need to do is change data for use.
-2-use Visual studio/solution explorer/properties/  add settings (if there isn't one) "connection-String-Application-(your sql connection adress)"
-3-enjoy app
+1--TO USE APP YOU MUST CREATE A DATABASE IN YOUR OWN SQL SERVER.
+I UPLOADED AN EXAMPLE DATABASE SCRIPT AS "sql_script.sql" JUST CHANGE DATA IN IT FOR USE.
+2--THERE IS NO "Resources.resx" AND "Settings.settings" FILE SO GO SOLUTION EXPLORER/
+/PROPERTIES/RESOURCES(CREATE ONE) /SETTINGS(CREATE ONE)
+3--GO Visual studio/solution explorer/properties/  ADD SETTINGS "connection-String-Application-("your sql connection adress" IT MUST HAVE ";TrustServerCertificate=True" AT THE END OF DATASOURCE ADDRESS ADD YOURSELF IF THERE ISN'T)"
+4--ENJOY APPLICATION
